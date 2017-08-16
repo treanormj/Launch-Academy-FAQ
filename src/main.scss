@@ -1,0 +1,40 @@
+@import 'stylesheets/Colors';
+@import 'stylesheets/App';
+
+body {
+  background-color: #E5F3F4;
+  padding-left: 5%;
+}
+.mainTitle {
+  color: #35BECC;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 2%;
+}
+
+.question {
+  padding-left: 5%;
+  color: #1c2224;
+  text-align: left;
+}
+
+.ans {
+  display: none;
+}
+
+.showans {
+  color: #35BECC;
+}
+
+.fa {
+  color: #1c2224;
+  float: left;
+  font-size: 2em;
+  padding-top: 1%;
+}
+
+.picture {
+  padding-left: 2%;
+  padding-top: 5%;
+  max-width: 15%;
+}
